@@ -1,6 +1,6 @@
 # FORECASTING BIKE SHARE RENTALS WITH PROPHET
 
-![screenshot](screenshot.png)
+![screenshot](/screenshot.PNG?raw=true "screen shot")
 
 ## Description
 
